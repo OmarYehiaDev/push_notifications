@@ -1,16 +1,20 @@
 # push_notifications
 
-A new Flutter project.
+This project demonstrates how we can integrate Push Notification with [Firebase "FCM"](https://pub.dev/packages/firebase_messaging) & [Flutter Local Notification Plugin](https://pub.dev/packages/flutter_local_notifications). We also used [OverlaySupport](https://pub.dev/packages/overlay_support/) Widget to display the notification when the app is in the foreground 'cuz FLNP don't work for a reason I don't know a thing about it :""
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This tutorial is made in Arabic for the Arabian community of Flutter around the world!
 
-A few resources to get you started if this is your first Flutter project:
+I hope you enjoy the work and please if there any issues or comments tell me :")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The Resources:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [YouTube Video](https://youtu.be/sX3a4Q42lSA)
+- [Files gist](https://gist.github.com/OmarYehiaDev/b3fe3652032d3470d7961839a07174d3)
+
+You can contact me on my email => [My Email](omaryahiatawfiek@gmail.com)
+
+Or send me a message on FB => [My FB Account](https://www.facebook.com/OmarYehiaDev)
+
+Also, if you don't have a facebook then we have Twitter => [@OmarYehiaDev](https://www.twitter.com/OmarYehiaDev)
